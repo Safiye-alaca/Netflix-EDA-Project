@@ -35,7 +35,3 @@ In data science, cleaning often takes 80% of the time. This project demonstrates
 * **Genre Analysis:** Frequency analysis of the most produced content types.
 * **Director Impact:** Identifying which directors dominate specific genres.
 * **Spotify Correlation:** Visualizing the relationship between "Danceability" and "Energy" using Heatmaps.
-
-├── notebooks/          # Step-by-step Jupyter Notebooks
-├── reports/            # Generated plots and insights
-└── README.md           # Project documentation
